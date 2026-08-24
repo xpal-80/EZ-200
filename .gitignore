@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+photos/
+frames/
+*.jpg
+*.jpeg
+*.avi
+/tmp/
+.vscode/
